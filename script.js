@@ -44,9 +44,9 @@ function saveSpeaker(speaker, dataset) {
 
 
 const speakerArray_LibriTTS = [
-    "121", "260", "908", "1995", "2961", 
-    "3729", "4077", "4507", "5105", "5639", 
-    "6829", "7021", "7127", "7176", "7729",
+    "121", "260", "908", "2961", 
+    "3729", "4507", "5639", 
+    "6829", "7176", "7729",
 ]
 
 for (var i = 0; i < speakerArray_LibriTTS.length; i++) {
